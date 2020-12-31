@@ -1,0 +1,33 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/osx-64/ca-certificates-2020.12.8-hecd8cb5_0.conda
+https://conda.anaconda.org/bioconda/osx-64/coreutils-8.25-1.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/libcxx-10.0.0-1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/openjdk-11.0.6-h7bc2e8c_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/xz-5.2.5-h1de35cc_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/zlib-1.2.11-h1de35cc_3.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libffi-3.3-hb1e8313_2.conda
+https://repo.anaconda.com/pkgs/main/osx-64/ncurses-6.2-h0a44026_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/openssl-1.1.1i-h9ed2024_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/pigz-2.4-ha441bb4_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/tk-8.6.10-hb0a8c7a_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libedit-3.1.20191231-h1de35cc_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libssh2-1.9.0-ha12b0ac_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/readline-8.0-h1de35cc_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/krb5-1.18.2-h75d18d8_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/sqlite-3.33.0-hffcf06c_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libcurl-7.71.1-h8a08a2b_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/python-3.8.5-h26836e1_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/certifi-2020.12.5-py38hecd8cb5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/curl-7.71.1-hb0a8c7a_1.conda
+https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.8-1_cp38.tar.bz2
+https://conda.anaconda.org/bioconda/noarch/trimmomatic-0.39-1.tar.bz2
+https://repo.anaconda.com/pkgs/main/noarch/wheel-0.36.2-pyhd3eb1b0_0.conda
+https://conda.anaconda.org/bioconda/noarch/nextflow-20.10.0-hecda079_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/setuptools-51.0.0-py38hecd8cb5_2.conda
+https://conda.anaconda.org/conda-forge/osx-64/xopen-1.0.1-py38h50d1736_1.tar.bz2
+https://conda.anaconda.org/bioconda/osx-64/dnaio-0.5.0-py38h771b250_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/pip-20.3.3-py38hecd8cb5_0.conda
+https://conda.anaconda.org/bioconda/osx-64/cutadapt-3.1-py38h771b250_0.tar.bz2
