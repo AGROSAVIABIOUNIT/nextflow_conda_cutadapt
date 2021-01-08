@@ -25,6 +25,7 @@ adapter_file.into {adapter_file_1; adapter_file_2}
 // pruning
 process pruning { 
   memory '2 GB'
+  conda 'cutadapt=3.1'
   tag { pair_id }
   publishDir "${output_dir}", 
     mode: 'copy'
@@ -46,6 +47,7 @@ process pruning {
 // Trimming
 process trimming {
   memory '4 GB'
+  conda 'trimmomatic=0.39-1'
   tag { pair_id }
   publishDir "${output_dir}",
    mode: 'copy'  
